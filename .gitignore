@@ -1,0 +1,6 @@
+data/edges2shoes/
+checkpoints/
+outputs/
+runs/
+__pycache__/
+*.pyc
